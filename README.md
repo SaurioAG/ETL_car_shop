@@ -19,3 +19,5 @@ Also to generate a log file for the process
 3.- Loaded the transformed data into a single CSV file for stakeholders usage
 
 4.- Generated a log file for the ETL process
+
+This can be improved by adding another step to dump all this data into a DB
